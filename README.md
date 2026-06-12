@@ -8,3 +8,11 @@ It was initially inspired by the NordVPN WireGuard config generator project, but
 Reference: https://github.com/mustafachyi/NordVPN-WireGuard-Config-Generator
 
 <img width="1508" height="1676" alt="image" src="https://github.com/user-attachments/assets/160dd6b2-9447-492a-9253-0252f81f1e44" />
+
+
+## Important paths
+
+- Settings: `%AppData%\WireNordAutomation\settings.json`
+- Encrypted token: `%AppData%\WireNordAutomation\auth.sec`
+- Logs: `%AppData%\WireNordAutomation\logs`
+- Tunnel config: `%ProgramFiles%\WireGuard\Data\Configurations\wirenordautomation.conf`
