@@ -11,7 +11,8 @@ Current version: **0.1.1**
 <img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/87fe4acb-0776-4077-9f1d-ef598ae2a788" />
 
 # React UI (beta)
-<img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/a7423b02-4c1a-4fc6-add1-6909103defc0" />
+<img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/4be71234-e019-464a-9c8f-5bbc5603c48f" />
+
 
 ## Features
 
